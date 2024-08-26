@@ -6,7 +6,7 @@ Open Source: Contributing to and learning from open source projects
 - 💞️ I’m looking to collaborate on Web Development Projects: Innovative frontend and backend projects.
 Open Source Contributions: Any exciting open source projects where I can contribute.
 Machine Learning Research: Projects that involve advanced machine learning techniques.
-- 📫 How to reach me Email: savadkn@example.com
+- 📫 How to reach me Email: knsavad@gmail.com
 Whatsapp : +91 90485 99099
 LinkedIn: linkedin.com/in/savadkn
 instagram: https://www.instagram.com/s____7____d/
